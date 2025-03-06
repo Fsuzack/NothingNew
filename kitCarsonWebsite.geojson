@@ -52,7 +52,6 @@
             },
             "properties": {
                 "name": "Border Perimeter"
-                "color": "#ff0000"
             }
         },
         {
@@ -91,7 +90,6 @@
             },
             "properties": {
                 "name": "Transmission Easement"
-                "color": "#ff0000"
             }
         },
         {
