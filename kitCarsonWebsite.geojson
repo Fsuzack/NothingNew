@@ -90,7 +90,8 @@
                 ]
             },
             "properties": {
-                "name": "Transmission Easement"
+                "name": "Transmission Easement",
+                "color": "#ff0000"
             }
         },
         {
