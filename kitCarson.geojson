@@ -91,7 +91,7 @@
                 ]
             },
             "properties": {
-                "name": "Transmission Easement"
+                "name": "Transmission Easement",
                 "fill": "#FF0000",
                 "stroke": "#ff0000"
             }
