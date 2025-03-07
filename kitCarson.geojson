@@ -52,7 +52,8 @@
             },
             "properties": {
                 "name": "Border Perimeter",
-                "color": "#FF0000"
+                "fill": "#FF0000",
+                "stroke": "#ff0000"
             }
         },
         {
