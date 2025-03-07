@@ -51,7 +51,8 @@
                 ]
             },
             "properties": {
-                "name": "Border Perimeter"
+                "name": "Border Perimeter",
+                "color": "#FF0000"
             }
         },
         {
