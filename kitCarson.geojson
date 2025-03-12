@@ -92,8 +92,8 @@
             },
             "properties": {
                 "name": "Transmission Easement",
-                "fill": "#4355a3",
-                "stroke": "#4355a3"
+                "fill": "blue",
+                "stroke": "blue"
             }
         }
     ]
