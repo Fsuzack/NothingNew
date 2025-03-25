@@ -1,0 +1,7 @@
+[
+    { "name": "Kit Carson", "type": "solar", "acreage": "$25", "lat": 39.540800, "lng": -102.596274, "zoom": 13, "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/main/KitCarsonWebsite.geojson" },
+    { "name": "DeSoto", "type": "bess", "acreage": "$20", "lat": 34.9858, "lng": -90.12277, "zoom": 13, "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/desoto2.geojson" },
+    { "name": "Springer", "type": "solar", "acreage": "$30", "lat": 36.3912, "lng": -104.5988, "zoom": 13, "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/main/Springer3.geojson" },
+    { "name": "North Jackson", "type": "solar", "acreage": "$22", "lat": 41.092978, "lng": -80.8936, "zoom": 14, "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/northjackson2.geojson" },
+    { "name": "Foreman", "type": "bess", "acreage": "$28", "lat": 33.74801, "lng": -94.380596, "zoom": 14, "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/foreman2.geojson" }
+]
