@@ -4,7 +4,7 @@
     { "name": "Desoto, MS", "type": "bess", "acreage": 210, "lat": 34.9858, "lng": -90.12277, "zoom": 13, "power":400, "voltage": 500, "interconnect": "line","status":"Site Control, Unqueued", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/desoto2.geojson" },
     { "name": "North Jackson, OH", "type": "bess", "acreage": 70, "lat": 41.092978, "lng": -80.8936, "zoom": 14, "power":100 ,"voltage": 138 , "interconnect": "sub","status":"Site Control, Unqueued", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/northjackson2.geojson" },
     { "name": "Tipton, OK", "type": "bess", "acreage": 80, "lat": 34.50901, "lng":  -99.1806005, "zoom": 14, "power": 75,"voltage": 69, "interconnect": "sub","status":"Site Control, Unqueued", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/tipton2.geojson" },
-    { "name": "Foreman, AR", "type": "bess", "acreage": 80, "lat": 33.74649, "lng":  -94.38080, "zoom": 14, "power": 75,"voltage": 69, "interconnect": "sub","status":"Site Control, Unqueued", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/foreman2.geojson" },
+    { "name": "Foreman, AR", "type": "bess", "acreage": 60, "lat": 33.74649, "lng":  -94.38080, "zoom": 14, "power": 75,"voltage": 69, "interconnect": "sub","status":"Site Control, Unqueued", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/foreman2.geojson" },
     { "name": "Christian, MO", "type": "bess", "acreage": 35, "lat": 36.99521364, "lng": -93.05589, "zoom": 14, "power": 75,"voltage": 69, "interconnect": "sub","status":"Site Control, Unqueued", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/christian2.geojson" },
     { "name": "Gregory, MI", "type": "bess", "acreage": 30, "lat": 42.408208, "lng": -84.08606, "zoom": 14, "power": 300, "voltage": 345, "interconnect": "line","status":"Site Control, Unqueued", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/gregory2.geojson" },
     { "name": "Becker, MN", "type": "bess", "acreage": 25, "lat": 46.80657, "lng": -95.44415, "zoom": 14, "power": 100, "voltage": 230, "interconnect": "line","status":"Site Control, Unqueued", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/becker2.geojson" },
@@ -15,5 +15,6 @@
     { "name": "Harrisonville, MO", "type": "bess", "acreage": 20, "lat":38.62085, "lng":-94.3342828, "zoom": 14, "power": 150, "voltage": 230, "interconnect": "sub","status":"Site Control, Unqueued", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/harrisonville2.geojson" },
     { "name": "Healdton, OK", "type": "solar", "acreage": 614, "lat": 34.225619, "lng": -97.579963, "zoom": 13, "power": 100,"powerHybrid":50, "voltage": 138, "interconnect": "sub","status":"Site Control Pending", "geojsonURL": "https://raw.githubusercontent.com/Fsuzack/NothingNew/refs/heads/version2/healdton2.geojson" }
 ]
+
 
 
